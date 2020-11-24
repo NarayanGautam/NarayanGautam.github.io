@@ -1,2 +1,2 @@
-# modsprinter.github.io
+# NarayanGautam.github.io
 Practice for making my github site
