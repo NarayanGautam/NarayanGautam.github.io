@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Shuva, a anspiring software developer studying CS at Carleton University</div>  
+<h1 align="center">I'm Shuva, a anspiring software developer studying CS at Carleton University</h1>  
   
 
 - 🔭 I’m currently looking for interships and co-ops for summer/fall 23' and working on [Portfolio](https://github.com/narayangautam/NarayanGautam.github.io)  
@@ -72,22 +72,22 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
+## Connect with me 
+<h1 align="center">
 <a href="https://github.com/narayangautam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/narayangautam" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</h1>  
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=narayangautam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=narayangautam&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayangautam&hide_border=true&layout=compact" align="center" /></div>  
 
