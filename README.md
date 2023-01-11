@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React, Next JS and SQL.
 
-- 📫 How to reach me at - <a href="gautns7@gmail.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="React" height="20" /></a>
+- 📫 How to reach me at - <a href="mailto: gautns7@gmail.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="React" height="25" /></a>
   
 
 <br/>  
