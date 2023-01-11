@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shuva-narayan-gautam-1365b217a/) 
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/NarayanGautam)
 
 ## Connect with me 
 <h1 align="center"> <a href="https://github.com/narayangautam" target="_blank"> <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a>
