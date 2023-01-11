@@ -20,14 +20,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=narayangautam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 <h1 align="center">I'm Shuva, a anspiring software developer studying CS at Carleton University</h1>  
   
 - 🔭 I’m currently looking for interships and co-ops for summer/fall 23' and working on [Portfolio](https://github.com/narayangautam/NarayanGautam.github.io)  
@@ -128,6 +126,8 @@
 
 
 <br />
+
+-->
 
 ----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
