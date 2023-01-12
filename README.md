@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React, React Native, SQL**
 
-- 📫 How to reach me at - <a href="mailto: gautns7@gmail.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="React" height="25" /></a>
+- 📫 Email me at - <a href="mailto: gautns7@gmail.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="React" height="25" /></a>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shuva-narayan-gautam-1365b217a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuva-narayan-gautam-1365b217a/) 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/NarayanGautam)
 
 # 💻 Tech Stack:
@@ -20,8 +20,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=narayangautam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
