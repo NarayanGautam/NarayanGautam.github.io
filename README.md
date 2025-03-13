@@ -7,6 +7,8 @@
 
 - Check out this [Open Art Gallery Project](https://github.com/NarayanGautam/Open-Art-Gallery) I made using NodeJS, Express, and MongoDB
 
+[Download Resume](https://github.com/NarayanGautam/NarayanGautam.github.io/blob/main/Shuva_Gautam_Resume_2025.pdf)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuva-narayan-gautam-1365b217a/) 
@@ -27,6 +29,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
