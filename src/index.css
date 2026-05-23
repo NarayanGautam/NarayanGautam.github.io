@@ -9,9 +9,9 @@
   --color-surface: #ffffff;
   --color-text: #18181b;
   --color-muted: #71717a;
-  --color-accent: #2563eb;
-  --color-accent-hover: #1d4ed8;
-  --color-border: #e4e4e7;
+  --color-accent: #6aeea5;
+  --color-accent-hover: #36f16e88;
+  --color-border: #e4e4e788;
 }
 
 .dark {
@@ -19,9 +19,9 @@
   --color-surface: #18181b;
   --color-text: #fafafa;
   --color-muted: #a1a1aa;
-  --color-accent: #3b82f6;
-  --color-accent-hover: #60a5fa;
-  --color-border: #27272a;
+  --color-accent: #6aeea5;
+  --color-accent-hover: #36f16e88;
+  --color-border: #27272a88;
 }
 
 html {
@@ -64,4 +64,10 @@ body {
 .section-fade.visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+/* Hide nav while gallery is open — overlay covers full viewport via portal */
+html.gallery-open header {
+  opacity: 0;
+  pointer-events: none;
 }

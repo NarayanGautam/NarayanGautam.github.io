@@ -6,6 +6,7 @@ const links = [
   { href: "#about", label: "About" },
   { href: "#projects", label: "Projects" },
   { href: "#experience", label: "Experience" },
+  { href: "#life", label: "Life" },
   { href: "#contact", label: "Contact" },
 ];
 
@@ -24,14 +25,14 @@ export function Nav() {
     <header
       className={`fixed inset-x-0 top-0 z-50 transition-colors ${
         scrolled
-          ? "border-b border-[var(--color-border)] bg-[var(--color-bg)]/85 backdrop-blur-md"
+          ? "border-b border-border bg-bg/85 backdrop-blur-md"
           : "bg-transparent"
       }`}
     >
       <nav className="mx-auto flex h-16 max-w-[1100px] items-center justify-between px-6">
         <a
           href="#"
-          className="font-display text-sm font-semibold tracking-tight text-[var(--color-text)]"
+          className="font-display text-sm font-semibold tracking-tight text-text"
         >
           SG
         </a>
@@ -41,7 +42,7 @@ export function Nav() {
             <li key={l.href}>
               <a
                 href={l.href}
-                className="text-sm text-[var(--color-muted)] transition-colors hover:text-[var(--color-text)]"
+                className="text-sm text-muted transition-colors hover:text-text"
               >
                 {l.label}
               </a>
@@ -54,14 +55,14 @@ export function Nav() {
             type="button"
             onClick={toggle}
             aria-label={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
-            className="rounded-lg p-2 text-[var(--color-muted)] transition-colors hover:bg-[var(--color-surface)] hover:text-[var(--color-text)]"
+            className="rounded-lg p-2 text-muted transition-colors hover:bg-surface hover:text-text"
           >
             {theme === "dark" ? <Sun size={20} /> : <Moon size={20} />}
           </button>
 
           <button
             type="button"
-            className="rounded-lg p-2 text-[var(--color-muted)] md:hidden"
+            className="rounded-lg p-2 text-muted md:hidden"
             aria-label="Open menu"
             onClick={() => setOpen(!open)}
           >
@@ -71,13 +72,13 @@ export function Nav() {
       </nav>
 
       {open && (
-        <div className="border-t border-[var(--color-border)] bg-[var(--color-bg)] px-6 py-4 md:hidden">
+        <div className="border-t border-border bg-bg px-6 py-4 md:hidden">
           <ul className="flex flex-col gap-4">
             {links.map((l) => (
               <li key={l.href}>
                 <a
                   href={l.href}
-                  className="text-base text-[var(--color-text)]"
+                  className="text-base text-text"
                   onClick={() => setOpen(false)}
                 >
                   {l.label}

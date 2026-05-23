@@ -20,11 +20,11 @@ export function Section({ id, title, subtitle, children, className = "" }: Props
     >
       <div className="mx-auto max-w-[1100px] px-6">
         <header className="mb-10">
-          <h2 className="font-display text-2xl font-semibold tracking-tight text-[var(--color-text)] md:text-3xl">
+          <h2 className="font-display text-2xl font-semibold tracking-tight text-text md:text-3xl">
             {title}
           </h2>
           {subtitle && (
-            <p className="mt-2 max-w-xl text-[var(--color-muted)]">{subtitle}</p>
+            <p className="mt-2 max-w-xl text-muted">{subtitle}</p>
           )}
         </header>
         {children}

@@ -7,7 +7,7 @@ export function Projects() {
     <Section
       id="projects"
       title="Projects"
-      subtitle="Featured builds — full-stack web, desktop systems, robotics, and low-level C."
+      subtitle="Featured projects include full-stack web applications, desktop systems, robotics, and low-level C/C++."
     >
       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {featuredProjects.map((p) => (
@@ -15,7 +15,7 @@ export function Projects() {
         ))}
       </div>
 
-      <h3 className="font-display mt-14 mb-6 text-lg font-semibold text-[var(--color-text)]">
+      <h3 className="font-display mt-14 mb-6 text-lg font-semibold text-text">
         More work
       </h3>
       <div className="grid gap-4 sm:grid-cols-2">
