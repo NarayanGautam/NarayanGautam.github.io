@@ -28,6 +28,32 @@ export const projects: Project[] = [
     featured: true,
   },
   {
+    id: "webots",
+    title: "Autonomous Robot Navigation Simulation",
+    period: "December 2024",
+    description:
+      "Simulated an autonomous robot in Webots with LiDAR sensing and pathfinding to navigate a maze, collect jars, and deliver them to a drop-off point.",
+    tags: ["Java", "Webots", "LiDAR"],
+    links: [{ label: "Demo", url: "https://youtu.be/PsFJzNtawSo" }],
+    featured: true,
+  },
+  {
+    id: "neureset",
+    title: "Neureset EEG Simulator",
+    period: "April 2024",
+    description:
+      "Qt/C++ desktop app for patient management and therapy session scheduling, with UML design and real-time EEG-style plotting via QCustomPlot.",
+    tags: ["Qt", "C++", "QCustomPlot"],
+    links: [
+      {
+        label: "GitHub",
+        url: "https://github.com/NarayanGautam/Neureset-EEG-Simulator",
+      },
+      { label: "Demo", url: "https://youtu.be/9WnLNwJr4Gc" },
+    ],
+    featured: true,
+  },
+  {
     id: "search-engine",
     title: "Web Search Engine",
     period: "March 2026",
@@ -41,33 +67,6 @@ export const projects: Project[] = [
       },
       { label: "Demo", url: "https://youtu.be/BneTxXm70zU" },
     ],
-    featured: true,
-  },
-  {
-    id: "webots",
-    title: "Webots Jar Collection Robot",
-    period: "December 2024",
-    description:
-      "Autonomous Pioneer robot in Webots using lidar and gripper control to locate and collect colored jars in simulation.",
-    tags: ["Java", "Webots", "Lidar"],
-    links: [{ label: "Demo", url: "https://youtu.be/PsFJzNtawSo" }],
-    featured: true,
-  },
-  {
-    id: "neureset",
-    title: "Neureset Therapy Simulator",
-    period: "April 2024",
-    description:
-      "COMP3004 team final: Qt/C++ desktop app for patient management, therapy sessions, and real-time EEG-style plotting with QCustomPlot.",
-    tags: ["Qt", "C++"],
-    links: [
-      {
-        label: "GitHub",
-        url: "https://github.com/NarayanGautam/Neureset-EEG-Simulator",
-      },
-      { label: "Demo", url: "https://youtu.be/9WnLNwJr4Gc" },
-    ],
-    featured: true,
   },
   {
     id: "pokemon-query",
@@ -82,7 +81,6 @@ export const projects: Project[] = [
         url: "https://github.com/NarayanGautam/Pokemon-Query-Program",
       },
     ],
-    featured: true,
   },
   {
     id: "pacman-rl",

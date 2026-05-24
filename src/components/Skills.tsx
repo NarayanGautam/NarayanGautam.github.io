@@ -3,8 +3,8 @@ import { skillGroups } from "../data/skills";
 
 export function Skills() {
   return (
-    <Section id="skills" title="Skills" subtitle="Technologies I use regularly.">
-      <div className="grid gap-8 sm:grid-cols-2">
+    <Section id="skills" title="Skills" subtitle="Aligned with my current resume.">
+      <div className="grid gap-8 lg:grid-cols-3">
         {skillGroups.map((group) => (
           <div key={group.label}>
             <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-muted">

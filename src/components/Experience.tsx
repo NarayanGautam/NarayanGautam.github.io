@@ -21,7 +21,7 @@ export function Experience() {
               </div>
               <p className="shrink-0 text-sm text-muted">
                 {job.period}
-                {job.location ? ` · ${job.location}` : ""}
+                {job.tools ? ` · ${job.tools}` : ""}
               </p>
             </div>
             <ul className="mt-3 list-disc space-y-1.5 pl-5 text-sm leading-relaxed text-muted">
