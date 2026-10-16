@@ -17,8 +17,8 @@ export const projects: Project[] = [
     title: "Traffic Flow Forecasting",
     period: "April 2026",
     description:
-      "End-to-end CV/ML pipeline: YOLO detection and tracking, line-cross counting, and traffic forecasting (baseline + LSTM) on Bellevue traffic camera footage.",
-    tags: ["Python", "OpenCV", "YOLO", "LSTM"],
+      "End-to-end computer vision pipeline with YOLO detection, multi-object tracking, and line-cross counting; ARIMA and LSTM models for traffic flow forecasting.",
+    tags: ["Python", "OpenCV", "YOLO", "LSTM", "pandas"],
     links: [
       {
         label: "GitHub",
@@ -28,13 +28,19 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    id: "webots",
-    title: "Autonomous Robot Navigation Simulation",
-    period: "December 2024",
+    id: "search-engine",
+    title: "Web Search Engine",
+    period: "March 2026",
     description:
-      "Simulated an autonomous robot in Webots with LiDAR sensing and pathfinding to navigate a maze, collect jars, and deliver them to a drop-off point.",
-    tags: ["Java", "Webots", "LiDAR"],
-    links: [{ label: "Demo", url: "https://youtu.be/PsFJzNtawSo" }],
+      "Crawler and indexer with TF-IDF ranking and PageRank boosting, plus a REST API and browser UI over 600+ crawled pages.",
+    tags: ["Node.js", "Express", "MongoDB", "TF-IDF", "PageRank"],
+    links: [
+      {
+        label: "GitHub",
+        url: "https://github.com/NarayanGautam/Search-Engine-for-Minecraft-Wiki",
+      },
+      { label: "Demo", url: "https://youtu.be/BneTxXm70zU" },
+    ],
     featured: true,
   },
   {
@@ -42,7 +48,7 @@ export const projects: Project[] = [
     title: "Neureset EEG Simulator",
     period: "April 2024",
     description:
-      "Qt/C++ desktop app for patient management and therapy session scheduling, with UML design and real-time EEG-style plotting via QCustomPlot.",
+      "Qt/C++ desktop app for patient management and therapy sessions with real-time EEG-style plotting; designed the system with UML.",
     tags: ["Qt", "C++", "QCustomPlot"],
     links: [
       {
@@ -54,19 +60,13 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    id: "search-engine",
-    title: "Web Search Engine",
-    period: "March 2026",
+    id: "webots",
+    title: "Autonomous Robot Navigation Simulation",
+    period: "December 2024",
     description:
-      "Crawler and indexer with TF-IDF ranking, PageRank boost, REST API, and browser UI. Crawled 600+ pages across fruitsA and Minecraft Wiki datasets.",
-    tags: ["Node.js", "MongoDB", "Express", "Cheerio"],
-    links: [
-      {
-        label: "GitHub",
-        url: "https://github.com/NarayanGautam/Search-Engine-for-Minecraft-Wiki",
-      },
-      { label: "Demo", url: "https://youtu.be/BneTxXm70zU" },
-    ],
+      "Simulated an autonomous robot in Webots with LiDAR sensing and pathfinding to navigate a maze, collect jars, and deliver them to a drop-off point.",
+    tags: ["Java", "Webots", "LiDAR"],
+    links: [{ label: "Demo", url: "https://youtu.be/PsFJzNtawSo" }],
   },
   {
     id: "pokemon-query",
